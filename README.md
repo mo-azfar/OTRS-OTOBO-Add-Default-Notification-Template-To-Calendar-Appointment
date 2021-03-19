@@ -1,5 +1,6 @@
 # OTRS-OTOBO-Add-Default-Notification-Template-To-Calendar-Appointment
 - Add notification template to calendar appointment (OTRS / OTOBO)
+- For OTRS 6 (CE/LTS) / OTOBO 10.0.x
 
 Paypal: [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/MohdAzfar?locale.x=en_US)    
 
